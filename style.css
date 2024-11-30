@@ -1,0 +1,12 @@
+h1 {
+  backgroung-color: blue;
+  text-align: center;
+}
+p {
+  backgroung-color: grey;
+  font-family: arial;
+}
+a {
+  backgroung-color: green;
+  color: white;
+}
